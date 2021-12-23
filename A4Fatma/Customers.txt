@@ -1,0 +1,201 @@
+Name	Purchesing/Repairment	Arrival Time	ElectricVehicle	Model	MaxSpeed	Weight	IsClosing
+Klara	purchesing	0	Scooter				
+Sybyl	repairment	0	Bike	GD321	35	15	1
+Tobye	purchesing	0	Scooter				
+Kelbee	repairment	1	Bike	MD322	40	16	1
+Karyn	purchesing	0	Scooter				
+Romeo	repairment	1	Bike	JR323	40	18	1
+Emmet	purchesing	1	Scooter				
+Annmarie	repairment	0	Bike	WE324	36	17	1
+Lari	purchesing	1	Bike				
+Karylin	repairment	1	Bike	LR525	40	13	0
+Ethe	purchesing	2	Bike				
+Lenee	purchesing	3	Bike				
+Modestia	purchesing	4	Bike				
+Decca	purchesing	1	Scooter				
+Dilly	repairment	0	Scooter	AR237	37	13	0
+Hall	repairment	0	Scooter	NF342	32	17	0
+Gaby	repairment	3	Scooter	DK249	31	14	0
+Suzette	purchesing	3	Scooter				
+Ambrosio	repairment	5	Scooter	MD324	40	16	0
+Benedicto	purchesing	5	Bike				
+Stoddard	repairment	1	Scooter	NF343	31	17	0
+Sylvia	purchesing	1	Bike				
+Abey	purchesing	1	Bike				
+Torey	purchesing	1	Bike				
+Celestyna	purchesing	0	Scooter				
+Clary	repairment	1	Bike	NF344	38	18	1
+Maxy	repairment	1	Scooter	AR235	33	18	0
+Phip	repairment	1	Bike	GD322	39	15	1
+Cristian	purchesing	0	Scooter				
+Roldan	repairment	1	Bike	DR322	38	17	1
+Garvy	purchesing	5	Scooter				
+Kermy	repairment	5	Bike	WE324	36	14	1
+Jeannie	purchesing	7	Scooter				
+Rachel	repairment	7	Bike	WQ453	34	16	1
+Drusie	purchesing	6	Scooter				
+Hewe	purchesing	6	Bike				
+Leandra	repairment	5	Scooter	GH234	35	15	0
+Whit	purchesing	6	Bike				
+Tani	repairment	7	Scooter	KU789	31	15	0
+Brianne	purchesing	6	Bike				
+Karee	repairment	5	Scooter	HY657	35	15	0
+Linn	purchesing	5	Bike				
+Jessee	repairment	5	Bike	HG435	33	18	1
+Eolande	purchesing	6	Bike				
+Anselm	repairment	7	Bike	JF984	38	14	1
+Brig	purchesing	8	Bike				
+Marie	purchesing	10	Bike				
+Jon	purchesing	9	Scooter				
+Tedi	purchesing	10	Scooter				
+Chaddy	repairment	9	Scooter	KF983	36	16	0
+Beverie	repairment	10	Scooter	FC545	31	17	0
+Merola	repairment	9	Scooter	FW232	30	14	0
+Roma	purchesing	10	Bike				
+Tremain	repairment	4	Bike	SW232	37	16	1
+Quintus	purchesing	5	Bike				
+Lacey	repairment	11	Bike	AR236	34	16	1
+Deanna	purchesing	12	Bike				
+Guido	purchesing	13	Bike				
+Darsey	purchesing	15	Scooter				
+Vivyan	purchesing	13	Scooter				
+Kimberly	repairment	11	Scooter	WE325	36	16	0
+Eddie	repairment	10	Scooter	AE144	31	18	0
+Eugene	repairment	9	Scooter	LR526	37	14	0
+Kingsley	purchesing	6	Scooter				
+Lexine	repairment	10	Bike	GD323	37	13	0
+Nikki	purchesing	11	Scooter				
+Giffer	repairment	13	Bike	MD324	37	13	0
+Kimberlee	purchesing	15	Bike				
+Isis	repairment	17	Bike	NF344	31	14	0
+Chip	purchesing	18	Scooter				
+Ancell	purchesing	17	Scooter				
+Sapphire	purchesing	19	Bike				
+Joly	repairment	26	Bike	WE324	40	13	1
+Marjorie	repairment	20	Bike	WQ453	33	14	1
+Louella	repairment	21	Scooter	GH234	35	16	0
+Kip	purchesing	21	Bike				
+Friedrich	repairment	29	Bike	HY657	34	17	0
+Nial	purchesing	30	Bike				
+Aleece	repairment	31	Bike	JF984	32	17	0
+Jaclin	purchesing	31	Bike				
+Devonna	repairment	31	Bike	FC545	33	14	1
+Pam	purchesing	31	Scooter				
+Marguerite	purchesing	32	Scooter				
+Cedric	repairment	34	Scooter	MD324	32	16	0
+Katerine	purchesing	33	Scooter				
+Nickolas	repairment	33	Scooter	NF343	40	13	0
+Valera	purchesing	34	Scooter				
+Worden	repairment	31	Bike	FD346	39	16	1
+Ann	purchesing	31	Scooter				
+Cherey	repairment	31	Bike	AR239	37	18	1
+Liam	purchesing	31	Bike				
+Aubree	repairment	31	Bike	DK251	39	13	1
+Clarita	purchesing	35	Scooter				
+Calli	purchesing	36	Bike				
+Robb	purchesing	35	Bike				
+Donny	purchesing	36	Bike				
+Eduard	repairment	35	Bike	MD324	31	14	0
+Gabe	repairment	37	Bike	AR238	30	14	1
+Blondelle	repairment	31	Bike	NF343	31	17	1
+Etienne	purchesing	26	Scooter				
+Lorilyn	repairment	39	Scooter	FD346	36	13	0
+Bentley	purchesing	41	Scooter				
+Beret	repairment	42	Scooter	AR239	34	13	0
+Marieann	purchesing	40	Scooter				
+Phebe	purchesing	41	Scooter				
+Fransisco	purchesing	41	Bike				
+Beitris	purchesing	42	Scooter				
+Levon	repairment	42	Bike	AR240	33	17	1
+Emlyn	repairment	43	Bike	NF345	34	15	0
+Aggi	repairment	43	Bike	AR236	36	17	1
+Rowan	purchesing	43	Scooter				
+Percy	repairment	43	Bike	AR237	32	14	1
+Rubetta	purchesing	46	Bike				
+Barret	repairment	45	Scooter	RR343	33	13	0
+Conn	purchesing	40	Bike				
+Kylila	repairment	41	Bike	WE324	30	15	1
+Rita	purchesing	47	Bike				
+Aleta	repairment	49	Scooter	GH234	31	16	0
+Elvis	purchesing	51	Bike				
+Ara	repairment	50	Bike	HY657	36	14	0
+Darcie	purchesing	56	Bike				
+Liuka	repairment	56	Bike	JF984	35	17	1
+Pat	purchesing	56	Scooter				
+Giustina	repairment	51	Bike	FC545	35	14	1
+Winne	purchesing	53	Bike				
+Rex	repairment	50	Bike	SW232	34	13	1
+Thibaut	purchesing	51	Scooter				
+Raoul	purchesing	52	Bike				
+Marianna	purchesing	58	Bike				
+Jean	purchesing	49	Bike				
+Sloan	purchesing	50	Bike				
+Perrine	purchesing	51	Scooter				
+Erv	repairment	57	Bike	NF344	31	13	1
+Morton	repairment	59	Bike	WE324	39	15	1
+Krishnah	repairment	60	Bike	WQ453	39	14	0
+Chris	purchesing	39	Scooter				
+Maisie	repairment	61	Bike	HY657	37	16	0
+Deloria	purchesing	61	Bike				
+Larine	repairment	62	Bike	GD321	39	18	1
+Lloyd	purchesing	60	Bike				
+Hugh	repairment	70	Bike	JR323	37	18	1
+Ethel	purchesing	65	Scooter				
+Jerrine	purchesing	70	Bike				
+Christian	repairment	80	Bike	AR237	33	13	1
+Traver	purchesing	91	Bike				
+Bayard	repairment	92	Scooter	DK249	31	14	0
+Avictor	purchesing	85	Bike				
+Eddy	repairment	72	Bike	NF343	35	13	1
+Emiline	purchesing	120	Bike				
+Thekla	repairment	98	Scooter	AR235	37	16	0
+Johnathan	purchesing	85	Bike				
+Tabbie	repairment	87	Bike	AR237	38	14	1
+Olia	purchesing	69	Scooter				
+Benedicto	purchesing	87	Bike				
+Merrile	purchesing	91	Bike				
+Theodosia	purchesing	95	Bike				
+Cissiee	repairment	94	Scooter	JF984	31	14	0
+Hazel	repairment	90	Bike	FC545	39	13	1
+Humfried	repairment	85	Bike	SW232	36	13	1
+Nikki	purchesing	92	Bike				
+Miner	repairment	105	Bike	WE324	36	17	1
+Hamid	purchesing	72	Scooter				
+Jeramie	repairment	120	Bike	HY657	35	16	1
+Kurtis	purchesing	98	Bike				
+Travis	purchesing	85	Bike				
+Ammamaria	purchesing	87	Scooter				
+Samuele	purchesing	69	Bike				
+Gonzales	repairment	87	Bike	AR237	37	17	1
+Izzy	repairment	91	Bike	RR343	32	16	1
+Tandie	repairment	95	Bike	WE324	40	15	1
+Aldon	purchesing	94	Bike				
+Ingrim	repairment	90	Bike	HY657	38	17	1
+Sheba	purchesing	70	Scooter				
+Travus	repairment	102	Bike	FC545	33	14	1
+Freeland	purchesing	98	Bike				
+Malvina	repairment	99	Bike	AR240	30	15	1
+Lenora	purchesing	100	Scooter				
+Ingamar	repairment	101	Bike	WE324	31	15	1
+Raymund	purchesing	78	Bike				
+Vally	repairment	88	Bike	AR237	30	14	1
+Algernon	purchesing	67	Bike				
+Consuelo	repairment	87	Scooter	WE324	31	16	0
+Cordey	purchesing	69	Bike				
+Leanor	repairment	87	Bike	FC545	34	14	1
+Lyndsey	purchesing	91	Bike				
+Hallsy	repairment	95	Scooter	SW232	39	16	0
+Tyne	purchesing	94	Bike				
+Ricky	purchesing	87	Bike				
+Brodie	purchesing	69	Bike				
+Bond	purchesing	87	Bike				
+Emmerich	repairment	91	Bike	GD321	31	18	1
+Mart	repairment	95	Scooter	JR323	40	18	0
+Shanie	purchesing	94	Bike				
+Darryl	purchesing	90	Bike				
+Cary	repairment	87	Bike	NF343	36	13	1
+Tomasina	purchesing	69	Scooter				
+Sherlock	repairment	87	Bike	AR237	37	18	1
+Nomi	repairment	91	Bike	JF984	34	15	1
+Kienan	purchesing	95	Bike				
+Una	purchesing	94	Scooter				
